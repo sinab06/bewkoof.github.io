@@ -1,4 +1,4 @@
- <a href="https://bewkoof-aramanrajput.vercel.app/"># Clone of Bewakoof</a>
+ <a href="https://bewkoof-aramanrajput.vercel.app/"><h1><strong>Clone of Bewakoof</strong></h1></a>
 
 Bewakoof is an Online Shopping site for Men and Women Clothing.
 we as a team of three members built the clone of bewakoof.com in 6 days.While building this project we have used HTML,CSS,javascript and local storage
